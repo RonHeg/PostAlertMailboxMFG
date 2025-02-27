@@ -1,2 +1,2 @@
-# PostAlertBaseMFG
- PostAlert IoT Base Station Manufacturing documentation
+# PostAlertMailboxMFG
+ PostAlert IoT Mailbox Unit Manufacturing documentation
